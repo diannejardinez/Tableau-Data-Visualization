@@ -37,18 +37,18 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 
 - **Station Popularity**
 	- Most Popular
-		- Most popular stations are located in Manhattan, 51% of stations are located in Manhattan. These places are near establishments such as schools, restaurants, businesses, and the Lincoln Tunnel bridge between New Jersey and New York 
+		- The most popular stations are located in Manhattan. From the dataset, 51% of Citi Bike stations are located in Manhattan borough. These places are near business establishments such as schools, restaurants, businesses, and the Lincoln Tunnel bridge between New Jersey and New York 
 		- Number 1: Station West St & Chambers St in Lower Manhattan
 	- Least Popular
-		- Least Popular stations are in the Bronx and the center of Central Park in Manhattan. Possibly because these stations are not close to any establishments. One station on Westchester Ave and Jackson Ave is near a MTA Station 
-		- Number 1: Station MTL-AOS-5.1 in the middle of Central Park
+		- Least Popular stations are in the Bronx borough. Possibly because these stations are not close to any big business establishments 
+		- Number 1: Station Southern Blvd & E 142 St in South Bronx
 
 - **Ridership Growth**
 	- Ridership Growth for all stations in gender and age decreased when NYC incorporated their own “Shelter in Place” order, known as [PAUSE](https://ny.curbed.com/2020/3/20/21187022/coronavirus-new-york-shutdown-shelter-in-place), effective April 29, 2020, and increased when the order was [lifted](https://www.nbcnewyork.com/news/local/shutdown-extended-in-nyc-suburbs-5-regions-enter-1st-reopening-phase-friday/2418251/) effective May 15, 2020
 	- Ridership participation is higher in Millennials and Men, but growth is difficult to capture during the coronavirus pandemic. Seems that usage possibly illustrates use of Citi Bikes is from an essential worker or for recreation
 	- When PAUSE was in effect in April, there was a decrease in growth of -27.3% in women, -42.9% in men, and -4.0% in Unknown gender classification
-	- After the PAUSE order was lifted, there was a 140.1% ridership growth in women, 98% in Men, and 168.4% in Unknown gender classification reported in May.
-	- Comparing Q1(January - March) to Q2(April - June) there is an increase in Ridership growth in Q2 than Q1
+	- After the PAUSE order was lifted, there was a 140.1% ridership growth in women, 98% in Men, and 168.4% in Unknown gender classification reported in May
+	- Comparing Q1(January - March) to Q2(April - June) there is an increase in Ridership growth in Q2
 
 - **User Demographics**
 	- User Demographics looked into who(age, gender, and customer type) uses Citi Bikes the longest
