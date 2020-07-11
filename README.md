@@ -68,4 +68,4 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 ---
 
 
-![](https://github.com/diannejardinez/Tableau-Data-Visualization/blob/master/Summary-Report-Cover.png)
+![](https://github.com/diannejardinez/Tableau-Data-Visualization/blob/master/Citi%20Bike%20NYC-Summary%20Report.gif)
