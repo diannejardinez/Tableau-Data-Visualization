@@ -11,5 +11,5 @@
 
 
 
-<!-- Image -->
-<!-- ![]() -->
+
+![](https://github.com/diannejardinez/Tableau-Data-Visualization/blob/master/Summary-Report-Cover.png)
