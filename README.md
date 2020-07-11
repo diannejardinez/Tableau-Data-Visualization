@@ -16,9 +16,6 @@
 - Loaded dataset into a Tableau Workbook
 
 
----
-
-
 ## Analysis
 *To view visualizations and download Tableau Workbook, visit the "Citi Bike NYC - 2020 Q1 to Q2 - Summary Report" link above*
 
