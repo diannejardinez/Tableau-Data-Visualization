@@ -63,6 +63,8 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 	- Bike Usage also looked into the top three stations used for the beginning of the trip and the clientele that use it
 	- From the most popular station, West St & Chambers St, the top customer is Millennial Men who subscribe to Citi Bike (when age is grouped)
 	- Additionally, this station is located next to a MTA Subway station, World Trade Center, NYC City Hall, Rockefeller Park, and a high amount of restaurants
+	- When focusing on just age, customers that do not subscribe to Citi Bike, are 51, and selected Unknown gender are the top customers of Citi bike users
+	- This limitation in data does not offer accurate representation on user Demographics by gender. It seems that this age has the most amount of Unknown Gender selection in all top 3 stations
 	
 
 ---
