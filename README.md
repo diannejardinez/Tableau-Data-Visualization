@@ -45,7 +45,7 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 
 - **Station Popularity**
 	- Most Popular
-		- The most popular stations are located in Manhattan. From the dataset, 51% of Citi Bike stations are located in Manhattan borough. These places are near business establishments such as schools, restaurants, businesses, and the Lincoln Tunnel bridge between New Jersey and New York 
+		- The most popular stations are located in Manhattan. From the dataset, 51% of Citi Bike stations are located in the Manhattan borough. These places are near business establishments such as schools, restaurants, and the Lincoln Tunnel bridge between New Jersey and New York 
 		- Number 1: Station West St & Chambers St in Lower Manhattan
 	- Least Popular
 		- Least Popular stations are in the Bronx borough. Possibly because these stations are not close to any big business establishments 
