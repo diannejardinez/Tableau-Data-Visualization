@@ -27,12 +27,25 @@
 ## Analysis
 *To view visualizations and download Tableau Workbook, visit the "Citi Bike NYC - 2020 Q1 to Q2 - Summary Report" link above*
 
-The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popularity, Ridership Growth, User Demographics, and Bike Usage. The purpose of this analysis was to find out who is the Citi Bike clientele.
+The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popularity, Ridership Growth, User Demographics, and Bike Usage. **The purpose of this analysis was to find out who is the Citi Bike clientele**.
+
 - Note for dataset: 
 	- Customer Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
 	- Ages were placed in [Generation Timeline age groups](https://commons.wikimedia.org/wiki/File:Generation_timeline.svg) and the focus was on Baby Boomers (56-74 years), Generation X (40-55 years), Millennials (24-39 years), and Generation Z (8-23 years)
 	- Users who use Citi Bike would need to have a smart mobile device and would need to have either downloaded the Citi Bike app or Lyft app
 
+**Citi Bike Clientele Breakdown**
+- Who is it?
+	- Millennial Man(24-39 years). This group starts their bike journey at E 13 St & Avenue A, located in lower Manhattan, near Stuyvesant Town–Peter Cooper Village, also known as StuyTown that contain around 11,250 apartments. They subscribe to Citi Bike. During the weekdays they mostly ride at 8:00 AM and 5:00 PM; during the weekend, they ride the most on Sundays. 
+
+
+- Other Citi Bike Users
+	- Baby Boomer men (56-74 years old). This group start their bike journey at Pershing Square North, near Grand Central Terminal Station. They subscribe to Citi Bike and ride at 8:00 AM and 5:00 PM, frequently on Wednesdays. 
+	- Millennial Woman (24-39 years old). This group starts their bike journey at 1 Ave & E 68 St, located in Upper East Side Manhattan. New York-Presbyterian/Weill Cornell Medical Center, Rockefeller University, Rockefeller Research laboratories, and parks are near this station. They subscribe to Citi Bike and ride at 8:00 AM and 5:00 PM, frequently on Sundays. 
+	- Generation Z Men (8-23 years old). This group starts their bike journey at University Pl & E 8 St, located in lower Manhattan, near New York University(NYU). During the weekdays they mostly ride at 5:00 PM and 6:00 PM and during the weekend, they ride the most on Sundays. 
+
+
+## Detailed Analysis
 - **Overall**
 	- Total number of Trips: 7,508,808
 	- Total Trip Duration(seconds): 9,736,719,980
@@ -42,12 +55,13 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 	- Top User by Gender: Men
 	- Top User by Customer Type: Subscriber
 	- Top starting Station: West St & Chambers St in Lower Manhattan
+	- Top ending Station: 12 Ave & W 40 St on the edge of the Lincoln Tunnel bridge between New Jersey and New York  
 
 - **Station Popularity**
-	- Most Popular
+	- Overall most Popular
 		- The most popular stations are located in Manhattan. From the dataset, 51% of Citi Bike stations are located in the Manhattan borough. These places are near business establishments such as schools, restaurants, and the Lincoln Tunnel bridge between New Jersey and New York 
 		- Number 1: Station West St & Chambers St in Lower Manhattan
-	- Least Popular
+	- Overall least Popular
 		- Least Popular stations are in the Bronx borough. Possibly because these stations are not close to any big business establishments 
 		- Number 1: Station Southern Blvd & E 142 St in South Bronx
 
@@ -73,7 +87,7 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 	- Additionally, this station is located next to a MTA Subway station, World Trade Center, NYC City Hall, Rockefeller Park, and a high amount of restaurants
 	- When focusing on just age, customers that do not subscribe to Citi Bike, are 51, and selected Unknown gender are the top customers of Citi bike users
 	- This limitation in data does not offer accurate representation on user Demographics by gender. It seems that this age has the most amount of Unknown Gender selection in all top 3 stations
-	
+
 
 ---
 
