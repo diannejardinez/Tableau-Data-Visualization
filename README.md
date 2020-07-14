@@ -69,7 +69,7 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 		- Least Popular stations are in the Bronx borough and Central Park in Manhattan. Possibly because these stations are not close to any big business establishments 
 		- Number 1: Station MTL-AOS-5.1, center of Central Park
 		- Least Popular for Women: Wales Ave & E 147
-		- Popular for Men: MTL-AOS-5.1
+		- Least Popular for Men: MTL-AOS-5.1
 
 - **Ridership Growth**
 	- Ridership Growth for all stations in gender and age decreased when NYC incorporated their own “Shelter in Place” order, known as [PAUSE](https://ny.curbed.com/2020/3/20/21187022/coronavirus-new-york-shutdown-shelter-in-place), effective April 29, 2020, and increased when the order was [lifted](https://www.nbcnewyork.com/news/local/shutdown-extended-in-nyc-suburbs-5-regions-enter-1st-reopening-phase-friday/2418251/) effective May 15, 2020
