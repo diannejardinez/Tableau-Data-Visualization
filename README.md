@@ -38,13 +38,13 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 
 **Citi Bike Clientele Breakdown**
 - Who is it?
-	- Millennial Man(24-39 years). This group starts their bike journey at E 13 St & Avenue A, located in lower Manhattan, near Stuyvesant Town–Peter Cooper Village, also known as StuyTown that contain around 11,250 apartments. They subscribe to Citi Bike. During the weekdays they mostly ride at 8:00 AM and 5:00 PM; during the weekend, they ride the most on Sundays. 
+	- Millennial Man(24-39 years). This group start their bike journey at E 13 St & Avenue A, located in lower Manhattan, near Stuyvesant Town–Peter Cooper Village, also known as StuyTown that contain around 11,250 apartments. They subscribe to Citi Bike. During the weekdays they mostly ride at 8:00 AM and 5:00 PM; during the weekend, they ride the most on Sundays. 
 
 
 - Other Citi Bike Users
 	- Generation X Men (40-55 years old). This group start their bike journey at Pershing Square North, near Grand Central Terminal Station. They subscribe to Citi Bike and ride at 8:00 AM and 5:00 PM, frequently on Tuesdays. 
-	- Millennial Woman (24-39 years old). This group starts their bike journey at 1 Ave & E 68 St, located in Upper East Side Manhattan. New York-Presbyterian/Weill Cornell Medical Center, Rockefeller University, Rockefeller Research laboratories, and parks are near this station. They subscribe to Citi Bike and ride at 8:00 AM and 5:00 PM, frequently on Sundays. 
-	- Generation Z Men (8-23 years old). This group starts their bike journey at University Pl & E 8 St, located in lower Manhattan, near New York University(NYU). During the weekdays they mostly ride at 5:00 PM and 6:00 PM and during the weekend, they ride the most on Sundays. 
+	- Millennial Woman (24-39 years old). This group start their bike journey at 1 Ave & E 68 St, located in Upper East Side Manhattan. New York-Presbyterian/Weill Cornell Medical Center, Rockefeller University, Rockefeller Research laboratories, and parks are near this station. They subscribe to Citi Bike and ride at 8:00 AM and 5:00 PM, frequently on Sundays. 
+	- Generation Z Men (8-23 years old). This group start their bike journey at University Pl & E 8 St, located in lower Manhattan, near New York University(NYU). During the weekdays they mostly ride at 5:00 PM and 6:00 PM and during the weekend, they ride the most on Sundays. 
 
 
 ## Detailed Analysis
@@ -64,10 +64,12 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 		- The most popular stations are located in Manhattan. From the dataset, 51% of Citi Bike stations are located in the Manhattan borough. These places are near business establishments such as schools, restaurants, and the Lincoln Tunnel bridge between New Jersey and New York 
 		- Number 1: Station West St & Chambers St in Lower Manhattan
 		- Popular for Women: 1 Ave & E68 St
-		- Popular for Men: Pershing Square north
+		- Popular for Men: Pershing Square North
 	- Overall least Popular
 		- Least Popular stations are in the Bronx borough and Central Park in Manhattan. Possibly because these stations are not close to any big business establishments 
 		- Number 1: Station MTL-AOS-5.1, center of Central Park
+		- Least Popular for Women: Wales Ave & E 147
+		- Popular for Men: MTL-AOS-5.1
 
 - **Ridership Growth**
 	- Ridership Growth for all stations in gender and age decreased when NYC incorporated their own “Shelter in Place” order, known as [PAUSE](https://ny.curbed.com/2020/3/20/21187022/coronavirus-new-york-shutdown-shelter-in-place), effective April 29, 2020, and increased when the order was [lifted](https://www.nbcnewyork.com/news/local/shutdown-extended-in-nyc-suburbs-5-regions-enter-1st-reopening-phase-friday/2418251/) effective May 15, 2020
