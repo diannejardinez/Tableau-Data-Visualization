@@ -1,5 +1,7 @@
 # Tableau Visualization - Citi Bike Analytics
 
+![](https://github.com/diannejardinez/Tableau-Data-Visualization/blob/master/Citi%20Bike%20NYC-Summary%20Report.gif)
+
 **Tableau Public Workbook**: [Citi Bike NYC - 2020 Q1 to Q2 - Summary Report](https://public.tableau.com/profile/diannejardinez#!/vizhome/UCB-CitiBikeNYC-2020Q1Q2-SummaryReport-Final/CitiBikeSummaryReport-2020-Q1Q2)
 
 
@@ -93,12 +95,6 @@ The Summary Report for Citi Bike NYC is sectioned into four parts: Station Popul
 	- Additionally, this station, E 13 St & Avenue A, is located in lower Manhattan which is near Stuyvesant Town–Peter Cooper Village, also known as StuyTown that contain around 11,250 apartments
 	- The top customer by Age and Gender are customers who are 51 and selected Unknown as gender
 	- It seems that this age has the highest amount of Unknown Gender selection in all top 10 stations. This limitation in data may not offer accurate representation on user Demographics. However, it is good to note that at this age users choose not to disclose their gender.
-
-
----
-
-
-![](https://github.com/diannejardinez/Tableau-Data-Visualization/blob/master/Citi%20Bike%20NYC-Summary%20Report.gif)
 
 
 ---
